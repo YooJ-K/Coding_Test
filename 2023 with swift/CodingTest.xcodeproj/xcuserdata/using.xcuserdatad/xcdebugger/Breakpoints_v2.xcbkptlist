@@ -20,5 +20,69 @@
             landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A882316-D810-40BF-BBEB-220CF1952A98"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingTest/&#x1107;&#x116e;&#x11ab;&#x1112;&#x1161;&#x11af;&#x110c;&#x1165;&#x11bc;&#x1107;&#x1169;&#x11a8;/p1780.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "isSame(arr:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "7A882316-D810-40BF-BBEB-220CF1952A98 - b1b46125c608442b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "isSame(arr: Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "CodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/using/Desktop/CodingTest/2023%20with%20swift/CodingTest/%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8/p1780.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "7A882316-D810-40BF-BBEB-220CF1952A98 - b1b46125c6084408"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "isSame(arr: Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "CodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/using/Desktop/CodingTest/2023%20with%20swift/CodingTest/%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8/p1780.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28FA4639-5E56-4CBA-BD89-6DDDBA046E7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodingTest/&#x1107;&#x116e;&#x11ab;&#x1112;&#x1161;&#x11af;&#x110c;&#x1165;&#x11bc;&#x1107;&#x1169;&#x11a8;/p1780.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "divideAndConquer(x:y:size:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

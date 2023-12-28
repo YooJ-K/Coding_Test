@@ -18,7 +18,7 @@ func 대표값() {
     var average = 0
     
     for n in num {
-        if let d = dict[n] {
+        if dict[n] != nil {
             dict[n]! += 1
         }
         else {

@@ -79,7 +79,7 @@ func p2630() {
         return sum
     }
     
-    var result = divideAndConquer(arr: arr)
+    let result = divideAndConquer(arr: arr)
     print(result.white)
     print(result.blue)
     
