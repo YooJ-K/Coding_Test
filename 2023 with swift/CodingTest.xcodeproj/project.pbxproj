@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9019E8622B3BE6030029E446 /* P2630.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9019E8612B3BE6030029E446 /* P2630.swift */; };
+		901A59E92B3DBAF5004060B2 /* p1992.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901A59E82B3DBAF5004060B2 /* p1992.swift */; };
 		902FB9EA2B2C00ED000D9FB0 /* 타겟넘버.swift in Sources */ = {isa = PBXBuildFile; fileRef = 902FB9E92B2C00ED000D9FB0 /* 타겟넘버.swift */; };
 		902FB9EC2B2C0647000D9FB0 /* 네트워크.swift in Sources */ = {isa = PBXBuildFile; fileRef = 902FB9EB2B2C0647000D9FB0 /* 네트워크.swift */; };
 		902FB9EE2B2C0FAE000D9FB0 /* 단어변환.swift in Sources */ = {isa = PBXBuildFile; fileRef = 902FB9ED2B2C0FAE000D9FB0 /* 단어변환.swift */; };
@@ -50,6 +51,7 @@
 
 /* Begin PBXFileReference section */
 		9019E8612B3BE6030029E446 /* P2630.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P2630.swift; sourceTree = "<group>"; };
+		901A59E82B3DBAF5004060B2 /* p1992.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1992.swift; sourceTree = "<group>"; };
 		902FB9E92B2C00ED000D9FB0 /* 타겟넘버.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "타겟넘버.swift"; sourceTree = "<group>"; };
 		902FB9EB2B2C0647000D9FB0 /* 네트워크.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "네트워크.swift"; sourceTree = "<group>"; };
 		902FB9ED2B2C0FAE000D9FB0 /* 단어변환.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "단어변환.swift"; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				9019E8612B3BE6030029E446 /* P2630.swift */,
+				901A59E82B3DBAF5004060B2 /* p1992.swift */,
 			);
 			name = "분할정복";
 			path = "분할정복";
@@ -263,6 +266,7 @@
 				90D3D0212B2D357900E290A8 /* 의상.swift in Sources */,
 				90D62D642B30229600EAC132 /* 단어공부.swift in Sources */,
 				9019E8622B3BE6030029E446 /* P2630.swift in Sources */,
+				901A59E92B3DBAF5004060B2 /* p1992.swift in Sources */,
 				902FB9F32B2C2881000D9FB0 /* 2839.swift in Sources */,
 				90D3D0232B2D7FB900E290A8 /* skillCheck1.swift in Sources */,
 				90D62D5A2B3018EF00EAC132 /* 10부제.swift in Sources */,
