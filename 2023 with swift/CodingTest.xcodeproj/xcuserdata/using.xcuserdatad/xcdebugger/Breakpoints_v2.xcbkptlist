@@ -65,6 +65,21 @@
                   endingLineNumber = "48"
                   offsetFromSymbolStart = "76">
                </Location>
+               <Location
+                  uuid = "7A882316-D810-40BF-BBEB-220CF1952A98 - b1b46125c6084b23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "isSame(arr: Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "CodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/using/Desktop/CodingTest/2023%20with%20swift/CodingTest/%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8/p1780.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "76">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
